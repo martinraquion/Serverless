@@ -1,0 +1,5 @@
+{
+  "SENDER": "john.garcia@boom.camp",
+  "RECEIVERS": "samuel.lopez@boom.camp",
+  "ALLOWED_ORIGINS": ["*"]
+}
